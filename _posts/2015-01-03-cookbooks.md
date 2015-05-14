@@ -5,7 +5,7 @@ title: "cookbooks"
 fa-icon: rocket
 ---
 
-#### Redguide community has the responsibility of following Chef cookbooks :
+#### redguide community has the responsibility of following Chef cookbooks :
 * [NodeJS and NPM](https://github.com/redguide/nodejs "nodejs")
 * [Network interfaces management](https://github.com/redguide/network_interfaces "network_interfaces")
 * [System locales](https://github.com/redguide/locales "locales")
